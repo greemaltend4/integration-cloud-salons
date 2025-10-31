@@ -3,9 +3,9 @@ const app = express();
 const port = 3000;
 
 app.get('/', (req, res) => {
-    res.send('Bienvenue dans Intégration Cloud Salons !');
+    res.send('Bienvenue dans l\'Intégration Cloud Salons !');
 });
 
 app.listen(port, () => {
-    console.log(`Serveur en cours d'exécution à http://localhost:${port}`);
+    console.log(`Serveur en cours d\'exécution à http://localhost:${port}`);
 });
