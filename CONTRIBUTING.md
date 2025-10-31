@@ -11,4 +11,4 @@ Merci de votre intérêt pour contribuer à **Intégration Cloud Salons** ! Voic
 6. Ouvrez une Pull Request.
 
 ## Code de conduite
-Soyez respectueux et accueillant envers les autres contributeurs.
+Soyez respectueux, courtois et accueillant envers les autres contributeurs.
