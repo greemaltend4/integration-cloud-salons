@@ -4,7 +4,7 @@ Merci de votre intérêt pour contribuer à **Intégration Cloud Salons** ! Voic
 
 ## Étapes pour contribuer
 1. Fork ce repository.
-2. Créez votre branche : `git checkout -b feature/NomDeVotreFonctionnalité`
+2. Créez votre branche : `git checkout -b feature/NomDeVotreFonctionnalité` (veuillez utiliser le préfixe approprié pour votre type de modification)
 3. Faites vos modifications et testez.
 4. Effectuez un commit : `git commit -m 'Ajoute une nouvelle fonctionnalité'`
 5. Poussez votre branche : `git push origin feature/NomDeVotreFonctionnalité`
